@@ -1,3 +1,6 @@
 [submodule "kernel"]
 	path = kernel
 	url = http://192.168.1.27/vpi/sel4.git
+[submodule "seL4_tools"]
+	path = seL4_tools
+	url = https://github.com/seL4/seL4_tools.git
