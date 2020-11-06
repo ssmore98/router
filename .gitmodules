@@ -10,3 +10,6 @@
 [submodule "projects/picotcp"]
 	path = projects/picotcp
 	url = https://github.com/tass-belgium/picotcp.git
+[submodule "projects/camkes"]
+	path = projects/camkes
+	url = https://github.com/seL4/camkes.git
