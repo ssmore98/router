@@ -16,3 +16,15 @@
 [submodule "tools/seL4"]
 	path = tools/seL4
 	url = https://github.com/seL4/seL4_tools.git
+[submodule "projects/camkes-tool"]
+	path = projects/camkes-tool
+	url = https://github.com/seL4/camkes-tool.git
+[submodule "projects/global-components"]
+	path = projects/global-components
+	url = https://github.com/SEL4PROJ/global-components.git
+[submodule "projects/seL4_projects_libs"]
+	path = projects/seL4_projects_libs
+	url = https://github.com/SEL4PROJ/seL4_projects_libs.git
+[submodule "projects/musllibc"]
+	path = projects/musllibc
+	url = https://github.com/seL4/musllibc.git
