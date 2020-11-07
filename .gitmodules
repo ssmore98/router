@@ -43,3 +43,6 @@
 [submodule "projects/sel4runtime"]
 	path = projects/sel4runtime
 	url = https://github.com/SEL4PROJ/sel4runtime
+[submodule "projects/kea"]
+	path = projects/kea
+	url = https://gitlab.isc.org/isc-projects/kea.git
