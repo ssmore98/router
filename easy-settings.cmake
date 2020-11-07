@@ -1,0 +1,1 @@
+projects/camkes/easy-settings.cmake

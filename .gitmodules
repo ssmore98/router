@@ -13,3 +13,6 @@
 [submodule "projects/camkes"]
 	path = projects/camkes
 	url = https://github.com/seL4/camkes.git
+[submodule "tools/seL4"]
+	path = tools/seL4
+	url = https://github.com/seL4/seL4_tools.git
